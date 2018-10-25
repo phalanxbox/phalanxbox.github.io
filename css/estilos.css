@@ -100,6 +100,19 @@ p
 	text-align: justify;
 }
 
+aside
+{
+	width: 280px;
+	background:rgba(255,255,255, 0.5);
+	float: left;
+	margin-left: 5px;
+	border-radius: 10px;
+	min-height: 450px;
+	border-color: rgb(0,88,131);
+	border-style: solid;
+	height: auto;
+}
+
 
 /*navegador*/
 
@@ -172,4 +185,11 @@ p
 {
 	visibility: visible;
 	opacity: 1;
+}
+
+/*seccion para wiget de twitter y contador de visitas*/
+
+.sec
+{
+	width: 700px;
 }
